@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Hitung BMI</string>
+
+    <string name="bmi_intro">BMI, atau Body Mass Index merupakan cara untuk menentukan apakah berat badanmu ideal atau tidak. Cobalah sekarang!</string>
+    <string name="berat_badan">Berat badan (kg)</string>
+    <string name="tinggi_badan">Tinggi badan (cm)</string>
+    <string name="jenis_kelamin">Jenis kelamin</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="hitung">Hitung</string>
+    <string name="bmi_x">BMI: %1$.2f</string>
+    <string name="kurus">Kurus</string>
+    <string name="ideal">Ideal</string>
+    <string name="gemuk">Gemuk</string>
+    <string name="kategori_x">Kategori: %1$s</string>
+    <string name="berat_invalid">Berat tidak boleh kosong.</string>
+    <string name="tinggi_invalid">Tinggi tidak boleh kosong.</string>
+    <string name="gender_invalid">Pilih jenis kelamin.</string>
+    <string name="lihat_saran">Lihat Saran</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Berat badan: %1$s kg\nTinggi badan: %2$s cm\nJenis kelamin: %3$s\n\n%4$s\n%5$s</string>
+
+    <string name="judul_kurus">Mengatasi Kekurusan</string>
+    <string name="judul_ideal">Menjaga Tetap Ideal</string>
+    <string name="judul_gemuk">Mengatasi Kegemukan</string>
+    <string name="saran_kurus">Cobalah untuk makan porsi besar, seperti burger berukuran raksasa ini.</string>
+    <string name="saran_ideal">Pertahankan gaya hidupmu! Tapi jangan kebanyakan gaya karena itu berbahaya.</string>
+    <string name="saran_gemuk">Cobalah untuk olahraga lari. Kemanapun boleh, asal tidak lari dari kehidupan.</string>
+
+    <string name="histori">Histori</string>
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="hasil_x">BMI: %1$.2f - %2$s</string>
+    <string name="data_x">BB: %1$.1f - TB: %2$.1f - %3$s</string>
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Hitung BMI merupakan sebuah aplikasi Android untuk menghitung body mass index (BMI) sehingga seseorang dapat mengetahui apakah berat badannya ideal, gemuk atau kurus.\n\nAplikasi ini dibuat untuk kelas Mobpro 1. Temukan kodenya di https://github.com/indraazimi/hitung-bmi\n\nCopyright © 2021 Indra Azimi.\nAll rights reserved.</string>
+</resources>
